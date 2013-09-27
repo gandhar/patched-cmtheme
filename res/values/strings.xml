@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">patched</string>
+    <string name="theme_name">patched</string>
+    <string name="style_appearance_name">patched Theme</string>
+    <string name="author">gandhar</string>
+    <string name="copyright">gandhar</string>
+</resources>
