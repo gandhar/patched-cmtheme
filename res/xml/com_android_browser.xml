@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/browser_background_holo">@drawable/com_android_browser_browser_background_holo</item>
+    <item name="mipmap/ic_launcher_browser">@mipmap/com_android_browser_browseractivity</item>
 </resource-redirections>

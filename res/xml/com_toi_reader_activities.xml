@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/icon">@mipmap/com_toi_reader_activities_startpage</item>
+</resource-redirections>

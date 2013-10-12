@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_calculator">@mipmap/com_android_calculator2_calculator</item>
+</resource-redirections>

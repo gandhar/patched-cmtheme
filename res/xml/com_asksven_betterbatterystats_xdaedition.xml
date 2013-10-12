@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/icon_notext">@mipmap/com_asksven_betterbatterystats_statsactivity</item>
+</resource-redirections>

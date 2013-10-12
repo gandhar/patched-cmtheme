@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_news_weather">@mipmap/com_google_android_apps_genie_geniewidget</item>
+</resource-redirections>

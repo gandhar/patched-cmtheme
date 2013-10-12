@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/app_icon">@mipmap/com_google_android_apps_chrome_main</item>
+</resource-redirections>
