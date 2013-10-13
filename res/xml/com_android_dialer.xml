@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
     <item name="drawable/background_dial_holo_dark">@drawable/com_android_contacts_background_dial_holo_dark</item>
+    <item name="drawable/dialpad_background">@drawable/com_android_contacts_dialpad_background</item>
     <item name="mipmap/ic_launcher_phone">@mipmap/com_android_dialer_dialtactsactivity</item>
 </resource-redirections>

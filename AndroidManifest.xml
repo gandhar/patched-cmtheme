@@ -1,8 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest android:hasCode="false" android:versionCode="1" android:versionName="1.0" android:installLocation="internalOnly" package="org.gandhar.patched"
-  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
-    <application android:label="@string/theme_name" android:icon="@drawable/icon">
-        <activity android:label="@string/theme_name" android:name="com.tmobile.theme.Foo" />
+<manifest
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:pluto="http://www.w3.org/2001/pluto.html"
+	package="org.gandhar.patched"
+	android:hasCode="false"
+	android:versionCode="1"
+	android:versionName="1.0"
+	android:installLocation="internalOnly">
+
+    <application
+	android:label="@string/theme_name"
+	android:icon="@drawable/icon">
+
+	<activity
+		android:label="@string/theme_name"
+		android:name="com.tmobile.theme.Foo" />
+
     </application>
-    <theme pluto:themeId="patched" pluto:name="@string/theme_name" pluto:preview="@drawable/preview" pluto:author="@string/author" pluto:copyright="@string/copyright" pluto:styleName="@string/style_appearance_name" />
+
+    <theme
+	pluto:themeId="patched"
+	pluto:name="@string/theme_name"
+	pluto:preview="@drawable/preview"
+	pluto:author="@string/author"
+	pluto:copyright="@string/copyright"
+	pluto:styleName="@string/style_appearance_name" />
 </manifest>
