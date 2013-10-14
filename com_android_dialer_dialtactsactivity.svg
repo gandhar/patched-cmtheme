@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="400"
+   id="svg2987"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="com_android_dialer_dialtactsactivity.svg"
+   inkscape:export-filename="/home/gandhar/Dropbox/App/iconpack/iconpack1/done/com_android_dialer_dialtactsactivity.png"
+   inkscape:export-xdpi="32.400002"
+   inkscape:export-ydpi="32.400002">
+  <defs
+     id="defs2989">
+    <linearGradient
+       id="linearGradient4032"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#03c0ff;stop-opacity:1;"
+         offset="0"
+         id="stop4034" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="-99.188169"
+     inkscape:cy="298.33825"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="850"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2992">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-652.36218)">
+    <path
+       style="fill:#00b4f0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 301.48745,1033.397 c -1.0517,-0.1777 -6.3867,-1.4895 -11.85554,-2.9149 -31.96874,-8.3326 -86.60398,-33.5855 -119.41617,-55.19519 C 153.76351,964.45165 132.45043,946.07668 108.7393,922.28531 90.014125,903.49676 78.234986,889.81467 68.329337,875.34695 42.952736,838.28314 23.815822,794.07128 18.824384,760.97607 15.30854,737.66467 22.934599,721.47766 50.608897,693.51045 62.376,681.61881 68.414628,676.81364 76.071945,673.24851 c 7.126434,-3.31796 8.076254,-2.95642 14.679196,5.58741 7.857829,10.1676 31.650099,43.89715 44.106509,62.52841 16.55979,24.7688 19.16908,31.33213 17.64714,44.38932 -1.00303,8.60535 -2.04487,10.02339 -17.72387,24.12387 -15.10993,13.58871 -16.49194,15.3844 -16.38548,21.29018 0.18953,10.51384 11.7754,31.3616 27.29247,49.1104 14.59902,16.69871 45.62958,36.75606 71.66344,46.32137 7.38503,2.71339 12.41367,3.30909 16.10064,1.90731 3.33618,-1.26842 8.31401,-7.02779 16.62342,-19.23339 10.44581,-15.34373 14.67537,-20.68189 18.47077,-23.3121 2.92463,-2.02678 3.26837,-2.09006 6.68345,-1.23013 11.39936,2.87039 53.24308,26.19647 79.18709,44.14341 20.26819,14.02066 25.12589,19.85853 26.36155,31.68072 1.42013,13.58713 -10.08914,38.05081 -24.31755,51.68861 -8.39762,8.0489 -25.17774,17.4053 -36.165,20.165 -5.59424,1.4051 -13.79279,1.8359 -18.80827,0.9881 l 0,0 z"
+       id="path4038"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
