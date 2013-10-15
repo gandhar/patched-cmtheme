@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="com_asksven_betterbatterystats_statsactivity.svg"
+   inkscape:export-filename="/home/gandhar/Dropbox/App/iconpack/iconpack1/done/com_asksven_betterbatterystats_statsactivity.png"
+   inkscape:export-xdpi="25.3125"
+   inkscape:export-ydpi="25.3125">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="193.33558"
+     inkscape:cy="205.84324"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="850"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <path
+       id="rect3000"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 119.35772,566.36212 112.19511,0 0,37.39837 -112.19511,0 z M 67,603.76056 l 216.91055,0 0,422.60164 -216.91055,0 z" />
+    <rect
+       style="fill:#409b2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3002"
+       width="167.54471"
+       height="74.796745"
+       x="91.682922"
+       y="628.44342" />
+    <rect
+       style="fill:#409b2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3002-1"
+       width="167.54471"
+       height="74.796745"
+       x="91.682922"
+       y="727.92316" />
+    <rect
+       style="fill:#409b2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3002-2"
+       width="167.54471"
+       height="74.796745"
+       x="91.682922"
+       y="926.88245" />
+    <rect
+       style="fill:#409b2d;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3002-3"
+       width="167.54471"
+       height="74.796745"
+       x="91.682922"
+       y="827.40271" />
+    <rect
+       style="fill:#e7aa03;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3036"
+       width="74.796745"
+       height="198.21136"
+       x="308.59348"
+       y="715.95563" />
+    <rect
+       style="fill:#e7aa03;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect3036-2"
+       width="74.796745"
+       height="198.21136"
+       x="777.66296"
+       y="-445.09753"
+       transform="matrix(0,1,-1,0,0,0)" />
+  </g>
+</svg>
