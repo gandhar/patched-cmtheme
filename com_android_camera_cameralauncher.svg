@@ -12,9 +12,12 @@
    id="svg3074"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   width="144"
-   height="144"
-   sodipodi:docname="com_android_camera_cameralauncher.svg">
+   width="512"
+   height="512"
+   sodipodi:docname="com_android_camera_cameralauncher.svg"
+   inkscape:export-filename="/home/gandhar/apktl/apktool/patched-cmtheme/com_android_camera_cameralauncher.png"
+   inkscape:export-xdpi="25.3125"
+   inkscape:export-ydpi="25.3125">
   <metadata
      id="metadata3080">
     <rdf:RDF>
@@ -31,8 +34,8 @@
      id="defs3078" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
+     bordercolor="#000000"
+     borderopacity="0.20784314"
      objecttolerance="10"
      gridtolerance="10"
      guidetolerance="10"
@@ -44,71 +47,75 @@
      showgrid="false"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="2.8284272"
-     inkscape:cx="102.39151"
-     inkscape:cy="33.336639"
+     inkscape:zoom="0.7071068"
+     inkscape:cx="614.75683"
+     inkscape:cy="50.037974"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
-  <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="Layer"
-     style="display:inline" />
-  <path
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 6.874,27.218299 130.15,0 m 0,0 -4.99358,-5.916081 -120.114723,0 L 6.874,27.218299"
-     id="path3106"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="cccccc" />
-  <path
-     id="path3120"
-     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-     d="m 13.85763,16.626295 -2.04563,2.04899 0,5.785384 18.531,0 0,-5.865736 -1.925299,-1.928462 z"
-     inkscape:connector-curvature="0"
-     sodipodi:nodetypes="ccccccc" />
+     inkscape:current-layer="layer2"
+     showborder="true"
+     inkscape:showpageshadow="false"
+     borderlayer="false" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer1"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,368)">
     <rect
        style="fill:#939393;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4087"
-       width="129.99779"
-       height="95.054321"
-       x="6.0022182"
-       y="27.788155" />
+       width="459.45499"
+       height="335.95328"
+       x="26.007839"
+       y="-271.38763" />
     <rect
        style="fill:#353535;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4089"
-       width="129.99997"
-       height="64.901062"
-       x="6"
-       y="43.493038"
+       width="459.46268"
+       height="229.38171"
+       x="26"
+       y="-215.88142"
        ry="0" />
     <rect
        style="fill:#323232;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4091"
-       width="23.222874"
-       height="10.334334"
-       x="108.85142"
-       y="30.367327" />
+       width="82.077278"
+       height="36.52494"
+       x="389.51077"
+       y="-262.272" />
     <rect
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4093"
-       width="18.228708"
-       height="6.7534404"
-       x="111.37971"
-       y="31.592369" />
+       width="64.426254"
+       height="23.868881"
+       x="398.44656"
+       y="-257.94229" />
+    <path
+       id="path3120"
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 50.668309,-307.05795 -7.229929,7.24177 0,20.44747 65.49466,0 0,-20.73145 -6.80465,-6.81582 z"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/gandhar/apktl/apktool/patched-cmtheme/path3106.png"
+       inkscape:export-xdpi="25.3125"
+       inkscape:export-ydpi="25.3125" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 26.007069,-271.38819 459.992931,0 m 0,0 -17.64896,-20.90938 -424.524955,0 -17.819016,20.90938"
+       id="path3106"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-xdpi="25.3125"
+       inkscape:export-ydpi="25.3125" />
     <rect
        style="fill:#6f6f6f;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        id="rect4141"
-       width="18.50963"
-       height="5.5299759"
-       x="10.934043"
-       y="20.000004" />
+       width="65.419128"
+       height="19.544754"
+       x="43.43853"
+       y="-298.91354" />
     <path
        sodipodi:type="arc"
        style="fill:#353535;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -118,7 +125,7 @@
        sodipodi:rx="38.890873"
        sodipodi:ry="38.890873"
        d="m 130.4612,107.76078 a 38.890873,38.890873 0 1 1 -77.781745,0 38.890873,38.890873 0 1 1 77.781745,0 z"
-       transform="matrix(1.1313709,0,0,1.1313709,-31.600002,-39.917413)" />
+       transform="matrix(3.9986371,0,0,3.9986371,-106.89078,-510.6814)" />
     <path
        sodipodi:type="arc"
        style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
@@ -128,7 +135,7 @@
        sodipodi:rx="38.890873"
        sodipodi:ry="38.890873"
        d="m 130.4612,107.76078 a 38.890873,38.890873 0 1 1 -77.781745,0 38.890873,38.890873 0 1 1 77.781745,0 z"
-       transform="matrix(1.1313709,0,0,1.1313709,-31.600002,-31.917405)" />
+       transform="matrix(3.9986371,0,0,3.9986371,-106.89078,-482.40674)" />
     <path
        sodipodi:type="arc"
        style="fill:#2261b6;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
@@ -138,6 +145,6 @@
        sodipodi:rx="35.708893"
        sodipodi:ry="35.708893"
        d="m 123.03658,100.51293 a 35.708893,35.708893 0 1 1 -71.417783,0 35.708893,35.708893 0 1 1 71.417783,0 z"
-       transform="matrix(1.0641607,0,0,1.0641607,-20.930695,-16.961912)" />
+       transform="matrix(3.7610942,0,0,3.7610942,-69.181939,-429.54911)" />
   </g>
 </svg>

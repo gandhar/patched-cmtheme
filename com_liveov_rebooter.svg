@@ -12,9 +12,9 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   width="130"
-   height="130"
-   sodipodi:docname="com_liveov_rebooter.png">
+   width="512"
+   height="512"
+   sodipodi:docname="com_liveov_rebooter.svg">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -44,9 +44,9 @@
      showgrid="false"
      inkscape:snap-bbox="true"
      inkscape:snap-global="false"
-     inkscape:zoom="2.3177389"
-     inkscape:cx="136.20593"
-     inkscape:cy="95.252513"
+     inkscape:zoom="0.40972222"
+     inkscape:cx="854.17272"
+     inkscape:cy="224.90345"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -60,7 +60,7 @@
      sodipodi:rx="64.286797"
      sodipodi:ry="64.286797"
      d="m 145.83179,79.281754 a 64.286797,64.286797 0 1 1 -128.573596,0 64.286797,64.286797 0 1 1 128.573596,0 z"
-     transform="matrix(1.0110941,0,0,1.0110941,-17.449658,-15.161314)" />
+     transform="matrix(3.5777175,0,0,3.5777175,-35.744943,-27.647714)" />
   <path
      sodipodi:type="arc"
      style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -70,7 +70,7 @@
      sodipodi:rx="7.4745765"
      sodipodi:ry="14.949153"
      d="m 51.559324,55.830509 a 7.4745765,14.949153 0 1 1 -14.949153,0 7.4745765,14.949153 0 1 1 14.949153,0 z"
-     transform="translate(0,-14)" />
+     transform="matrix(3.5384615,0,0,3.5384615,26.000001,-23.538463)" />
   <path
      sodipodi:type="arc"
      style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -80,7 +80,7 @@
      sodipodi:rx="50.64407"
      sodipodi:ry="50.64407"
      d="m 148.27119,85.423729 a 50.64407,50.64407 0 1 1 -101.288139,0 50.64407,50.64407 0 1 1 101.288139,0 z"
-     transform="matrix(0.98728243,0,0,0.98728243,-31.385541,-19.337347)" />
+     transform="matrix(3.4934609,0,0,3.4934609,-85.05653,-42.42447)" />
   <path
      sodipodi:type="arc"
      style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
@@ -90,12 +90,12 @@
      sodipodi:rx="32.18644"
      sodipodi:ry="32.18644"
      d="m 111.35593,69.440681 a 32.18644,32.18644 0 1 1 -64.372875,0 32.18644,32.18644 0 1 1 64.372875,0 z"
-     transform="matrix(0.99420751,0,0,0.99420751,-13.710906,-4.0384469)" />
+     transform="matrix(3.517965,0,0,3.517965,-22.515513,11.710098)" />
   <rect
-     style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:6.66603947000000030;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:23.58752441;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
      id="rect5151"
-     width="23.333961"
-     height="63.333961"
-     x="53.333019"
-     y="8.3330193" />
+     width="82.566322"
+     height="224.10478"
+     x="214.71684"
+     y="55.486027" />
 </svg>
