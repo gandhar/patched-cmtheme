@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="512"
+   height="512"
+   sodipodi:docname="com_google_android_camera_cameralauncher.svg"
+   inkscape:export-filename="D:\Android\apktool\patched-cmtheme\com_google_android_camera_cameralauncher.png"
+   inkscape:export-xdpi="25.3125"
+   inkscape:export-ydpi="25.3125">
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     id="namedview4"
+     showgrid="false"
+     inkscape:zoom="0.24035714"
+     inkscape:cx="640.12498"
+     inkscape:cy="-242.70167"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <path
+     style="fill:#d9d9d9;fill-opacity:1;stroke:#000000;stroke-width:3.32471061;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     d="m 47.377437,91.884085 -19.715082,19.625195 0,309.82889 15.068157,14.99947 428.668498,0 12.93864,-12.87965 0,-316.61949 -17.2548,-17.176145 -417.262989,0 z"
+     id="path2987"
+     inkscape:connector-curvature="0" />
+  <path
+     id="path2991"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.8156786px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 75.90784,83.799505 83.43188,0 m -76.183236,-7.89166 -6.782026,6.95593 0,17.228385 83.717702,0 0,-17.228385 -6.67314,-6.84427 z"
+     inkscape:connector-curvature="0" />
+  <path
+     sodipodi:type="arc"
+     style="fill:#f0f0f0;fill-opacity:1;stroke:#000000;stroke-width:1.20000005;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path2994"
+     sodipodi:cx="160.98305"
+     sodipodi:cy="51.661018"
+     sodipodi:rx="10.271187"
+     sodipodi:ry="10.271187"
+     d="m 171.25423,51.661018 a 10.271187,10.271187 0 1 1 -20.54237,0 10.271187,10.271187 0 1 1 20.54237,0 z"
+     transform="matrix(2.5296227,0,0,2.5296226,20.273644,17.817124)" />
+  <path
+     sodipodi:type="arc"
+     style="opacity:0.69919996;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:3.20000005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path3764"
+     sodipodi:cx="94.776276"
+     sodipodi:cy="91.470985"
+     sodipodi:rx="59.972244"
+     sodipodi:ry="59.972244"
+     d="m 154.74852,91.470985 a 59.972244,59.972244 0 1 1 -119.944489,0 59.972244,59.972244 0 1 1 119.944489,0 z"
+     transform="matrix(2.5660913,0,0,2.5660913,12.795424,28.277105)" />
+  <path
+     sodipodi:type="arc"
+     style="opacity:0.69919995999999995;fill:#373737;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path3770"
+     sodipodi:cx="95.207733"
+     sodipodi:cy="95.929359"
+     sodipodi:rx="48.898232"
+     sodipodi:ry="48.898232"
+     d="m 144.10596,95.929359 a 48.898232,48.898232 0 1 1 -97.796458,0 48.898232,48.898232 0 1 1 97.796458,0 z"
+     transform="matrix(2.553283,0,0,2.553283,12.907715,18.065202)" />
+  <path
+     sodipodi:type="arc"
+     style="opacity:0.69919995999999995;fill:#3a95ff;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+     id="path3772"
+     sodipodi:cx="69.60807"
+     sodipodi:cy="79.246429"
+     sodipodi:rx="35.379311"
+     sodipodi:ry="35.379311"
+     d="m 104.98738,79.246429 a 35.379311,35.379311 0 1 1 -70.75862,0 35.379311,35.379311 0 1 1 70.75862,0 z"
+     transform="matrix(2.5398201,0,0,2.53982,79.208027,61.728335)" />
+</svg>
