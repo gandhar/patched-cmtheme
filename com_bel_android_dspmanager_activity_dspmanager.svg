@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="com_bel_android_dspmanager_activity_dspmanager.svg"
+   inkscape:export-filename="D:\Android\apktool\patched-cmtheme\com_bel_android_dspmanager_activity_dspmanager.png"
+   inkscape:export-xdpi="25.3125"
+   inkscape:export-ydpi="25.3125">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,16 +27,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="599.55012"
-     inkscape:cy="289.57754"
+     inkscape:zoom="0.35"
+     inkscape:cx="285.2734"
+     inkscape:cy="253.62519"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
-     inkscape:window-height="850"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -53,109 +56,102 @@
      id="layer1"
      transform="translate(0,-540.36218)">
     <rect
-       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       id="rect2998"
-       width="460"
-       height="460"
-       x="26"
-       y="566.36218" />
-    <rect
        style="fill:#669900;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000"
-       width="62"
-       height="62"
-       x="111"
-       y="841.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="74"
+       y="852.91956" />
     <rect
        style="fill:#669900;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-4"
-       width="62"
-       height="62"
-       x="111"
-       y="917.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="74"
+       y="948.43866" />
     <rect
        style="fill:#33b5e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-6"
-       width="62"
-       height="62"
-       x="187"
-       y="689.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="169.3931"
+       y="661.88129" />
     <rect
        style="fill:#33b5e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-3"
-       width="62"
-       height="62"
-       x="187"
-       y="613.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="169.3931"
+       y="566.36218" />
     <rect
        style="fill:#0099cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-8"
-       width="62"
-       height="62"
-       x="187"
-       y="765.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="169.3931"
+       y="757.40045" />
     <rect
        style="fill:#0099cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-38"
-       width="62"
-       height="62"
-       x="187"
-       y="841.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="169.3931"
+       y="852.91956" />
     <rect
        style="fill:#0099cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-9"
-       width="62"
-       height="62"
-       x="187"
-       y="917.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="169.3931"
+       y="948.43866" />
     <rect
        style="fill:#0099cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-7"
-       width="62"
-       height="62"
-       x="263"
-       y="917.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="264.78619"
+       y="948.43866" />
     <rect
        style="fill:#0099cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-90"
-       width="62"
-       height="62"
-       x="263"
-       y="841.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="264.78619"
+       y="852.91956" />
     <rect
        style="fill:#0099cc;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-2"
-       width="62"
-       height="62"
-       x="263"
-       y="765.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="264.78619"
+       y="757.40045" />
     <rect
        style="fill:#33b5e5;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-30"
-       width="62"
-       height="62"
-       x="263"
-       y="689.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="264.78619"
+       y="661.88129" />
     <rect
        style="fill:#99cc00;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-5"
-       width="62"
-       height="62"
-       x="339"
-       y="765.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="360.17932"
+       y="757.40045" />
     <rect
        style="fill:#669900;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-45"
-       width="62"
-       height="62"
-       x="339"
-       y="841.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="360.17932"
+       y="852.91956" />
     <rect
        style="fill:#669900;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect3000-80"
-       width="62"
-       height="62"
-       x="339"
-       y="917.36218" />
+       width="77.820694"
+       height="77.9235"
+       x="360.17932"
+       y="948.43866" />
   </g>
 </svg>
